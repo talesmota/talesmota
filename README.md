@@ -1,5 +1,6 @@
 ### Hi there 👋
-<h3 class="m-l-6em">I'm Tales Mota Machado.</h3>
+
+<h3 style="margin-left: 6em">I'm Tales Mota Machado.</h3>
 
 <div align="center">
   <a href="https://github.com/talesmota">
@@ -8,7 +9,63 @@
 </div>
   
   ##
-  <div> 
-    <a href="https://www.linkedin.com/in/tales-mota-machado-msc-0156aa50/" target="_blank"><img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ### Current Knowledges
+  
+<h4> Languages </h4>  
+<div>
+    <h5> Main Languages</h5>
+    <div>
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        <img  width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    </div>
+    <h5> Others </h5>  
+    <div>
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img  width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+        <img  width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+        <img  width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+    </div>
+</div>
+
+  ##
+  
+<h4> Frameworks </h4>
+<div>
+    <h5> Main Frameworks</h5>
+    <div>
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+        <img   width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    </div>  
+    <h5> Others</h5>
+    <div>
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain-wordmark.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+        <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+    </div>
+</div> 
+  
+  ##
+  
+  ### Find me on
+  <div>
+    <a href="https://github.com/talesmota/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/tales-mota-machado-msc-0156aa50/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
   </div>
- 
